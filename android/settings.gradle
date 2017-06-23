@@ -1,0 +1,3 @@
+rootProject.name = 'bbtest'
+
+include ':app'
